@@ -1,0 +1,2 @@
+https://rajputankit22.medium.com/how-to-add-swagger-to-nodejs-rest-api-7caa870741be
+here is all right formate for swagger 
